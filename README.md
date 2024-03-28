@@ -1,2 +1,2 @@
-# Calculator-Using-Inquirer-typescript-
-My code For A calculator Using Typescript
+# TypeScript
+All Code Regarding the language Typescript,Javascript and Web For Ai,Metaverse
